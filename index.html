@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src= "https://unpkg.com/topojson-client@3"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title>Evolución de precipitaciones en Chile</title>
+</head>
+<body>
+    <h1>Hito 2: Evolución de precipitaciones en Chile</h1>
+    <div class="intro">
+        <p>Esta es una herramienta de visualización del curso II2026. Aquí se podrá encontrar un mapa geográfico
+            donde puedes seleccionar direferentes estaciones de medición de precipitaciones además de un selector 
+            con las diferentes opciones. Las mediciones son en el periodo de tiempo 2016-1 hasta 2020-3 Esta
+            información fue extraída de <a href="https://www.cr2.cl/datos-de-precipitacion/">El Centro de Ciencia del Clima y la Resiliencia</a>.
+        </p>
+    </div>
+    <div class="selectores"></div>
+    <div class="row">
+        <svg id=earthquakes-svg></svg>
+        <div class="contenedor"></div>
+    </div>
+    <div class="seleccionados"></div>
+    <script src="index.js"></script>
+</body>
+</html>
