@@ -1,0 +1,5938 @@
+[
+  {
+    "codigo_estacion": "230001",
+    "nombre": "Cerro Moreno Antofagasta Ap.",
+    "latitud": "-23.4503",
+    "longitud": "-70.4411",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 1.4
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 1.0
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 0.4
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 1.8
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 1.8
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "270008",
+    "nombre": "Desierto De Atacama Caldera Ap.",
+    "latitud": "-27.2639",
+    "longitud": "-70.7742",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 0.4
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 0.2
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 0.2
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 0.8
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.8
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "290004",
+    "nombre": "La Florida La Serena Ad.",
+    "latitud": "-29.9175",
+    "longitud": "-71.2011",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 1.6
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 1.0
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 0.6
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 0.6
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 0.2
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 0.4
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "05423003",
+    "nombre": "Rio Aconcagua En Romeral",
+    "latitud": "-32.8403",
+    "longitud": "-71.0256",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 31.1
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 21.1
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 10.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 24.9
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 24.0
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 0.9
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 0.3
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 0.3
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "05410002",
+    "nombre": "Rio Aconcagua En Chacabuquito",
+    "latitud": "-32.8503",
+    "longitud": "-70.5094",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 77.4
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 28.5
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 2.3
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 46.6
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 25.4
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 21.4
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 4.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 13.3
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 6.9
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 6.4
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "330007",
+    "nombre": "Rodelillo Ad.",
+    "latitud": "-33.0367",
+    "longitud": "-71.5342",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 35.6
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 18.3
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 0.4
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 16.9
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 57.6
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 48.4
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 5.5
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 3.7
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 8.0
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 8.0
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 1.2
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 0.3
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.9
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "330021",
+    "nombre": "Pudahuel Santiago",
+    "latitud": "-33.3919",
+    "longitud": "-70.7944",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 27.2
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 12.2
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 15.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 18.2
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 18.0
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 0.2
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 3.6
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 3.0
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 0.6
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 0.1
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 0.1
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "330020",
+    "nombre": "Quinta Normal Santiago",
+    "latitud": "-33.445",
+    "longitud": "-70.6828",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 39.8
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 16.2
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 23.6
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 35.6
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 35.5
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 0.1
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 3.3
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 1.8
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.4
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 1.1
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 3.7
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 3.7
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "330030",
+    "nombre": "Santo Domingo Ad.",
+    "latitud": "-33.655",
+    "longitud": "-71.6142",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 44.6
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 24.0
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 20.6
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 36.3
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 32.6
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 3.7
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 13.2
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 12.4
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.8
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 0.4
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 0.4
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "05703008",
+    "nombre": "El Yeso Embalse",
+    "latitud": "-33.6767",
+    "longitud": "-70.0886",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 64.4
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 27.2
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 14.7
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 22.5
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 36.9
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 21.2
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 15.7
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 33.1
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 11.8
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 14.7
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 6.6
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 7.4
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 7.4
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "360011",
+    "nombre": "Bernardo O'Higgins Chillan Ad.",
+    "latitud": "-36.5872",
+    "longitud": "-72.04",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 101.4
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 58.6
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 16.4
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 26.4
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 152.4
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 97.0
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 45.4
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 10.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 200.8
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 100.8
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 93.2
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 6.8
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 25.2
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 16.4
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 7.2
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 1.6
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "360019",
+    "nombre": "Carriel Sur Concepcion.",
+    "latitud": "-36.7792",
+    "longitud": "-73.0622",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 118.6
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 71.8
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 14.4
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 32.4
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 112.6
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 75.8
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 29.2
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 7.6
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 104.0
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 63.8
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 31.8
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 8.4
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 57.2
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 43.8
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 13.4
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "08323001",
+    "nombre": "Rio Duqueco En Cerrillos",
+    "latitud": "-37.5422",
+    "longitud": "-72.3119",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 131.0
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 100.1
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 30.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 0.9
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 190.4
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 135.8
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 38.9
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 15.7
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 186.5
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 63.7
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 87.6
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 35.2
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 48.92
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 31.33
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 12.89
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 4.7
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "390006",
+    "nombre": "Pichoy Valdivia Ad.",
+    "latitud": "-39.6506",
+    "longitud": "-73.0808",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 297.1
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 137.5
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 72.9
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 86.7
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 283.2
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 206.9
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 21.6
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 54.7
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 258.6
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 107.2
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 120.4
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 31.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 126.4
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 65.6
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 42.4
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 18.4
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "400009",
+    "nombre": "Canal Bajo Osorno Ad.",
+    "latitud": "-40.605",
+    "longitud": "-73.0608",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 213.3
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 98.8
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 37.3
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 77.2
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 213.9
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 128.9
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 29.6
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 55.4
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 220.6
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 86.9
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 75.7
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 58.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 161.0
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 72.8
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 57.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 31.2
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "410005",
+    "nombre": "El Tepual Puerto Montt Ap.",
+    "latitud": "-41.435",
+    "longitud": "-73.0978",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 269.6
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 88.4
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 80.2
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 101.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 347.0
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 203.0
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 53.0
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 91.0
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 337.0
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 147.6
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 122.8
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 66.6
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 240.2
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 86.6
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 92.6
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 61.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "430002",
+    "nombre": "Futaleufu Ad.",
+    "latitud": "-43.1889",
+    "longitud": "-71.8525",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 355.4
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 123.2
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 149.8
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 82.4
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 476.0
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 238.8
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 19.0
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 218.2
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 493.8
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 181.2
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 258.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 54.6
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 472.2
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 154.0
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 224.6
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 93.6
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "11316004",
+    "nombre": "Coyhaique Alto",
+    "latitud": "-45.4803",
+    "longitud": "-71.6044",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 55.4
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 9.9
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 36.5
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 9.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 68.6
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 30.8
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 5.6
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 32.2
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 74.4
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 18.2
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 50.8
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 5.4
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 43.2
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 5.2
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 24.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 14.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "450004",
+    "nombre": "Teniente Vidal Coyhaique Ad.",
+    "latitud": "-45.5939",
+    "longitud": "-72.1086",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 220.0
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 39.8
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 126.4
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 53.8
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 185.8
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 81.4
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 19.2
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 85.2
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 131.6
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 37.2
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 78.6
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 15.8
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 149.8
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 23.8
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 74.2
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 51.8
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "11706000",
+    "nombre": "Glaciar Ohiggins",
+    "latitud": "-48.9272",
+    "longitud": "-73.1172",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 73.7
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 7.3
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 48.7
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 17.7
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 19.5
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 5.9
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 5.0
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 8.6
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 10.8
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 3.6
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 4.2
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 3.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 14.9
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 1.9
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 7.4
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 5.6
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "12280002",
+    "nombre": "Rio Paine En Parque Nacional 2",
+    "latitud": "-50.9603",
+    "longitud": "-72.7925",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 92.3
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 9.2
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 36.1
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 47.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 175.8
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 121.4
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 15.9
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 38.5
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 53.5
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 20.1
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 17.4
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 16.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 84.6
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 9.5
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 47.1
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 28.0
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "12287002",
+    "nombre": "Lago Grey",
+    "latitud": "-51.1114",
+    "longitud": "-73.13",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 180.9
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 35.4
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 68.5
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 77.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 263.4
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 138.5
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 46.0
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 78.9
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 105.64
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 27.04
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 45.1
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 33.5
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 156.5
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 16.6
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 79.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 60.9
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "12286001",
+    "nombre": "Torres Del Paine",
+    "latitud": "-51.1842",
+    "longitud": "-72.9669",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 150.0
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 23.8
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 56.7
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 69.5
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 320.4
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 191.0
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 48.0
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 81.4
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 0.0
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 158.9
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 15.2
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 90.2
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 53.5
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "12403000",
+    "nombre": "Seno Obstruccin",
+    "latitud": "-52.2094",
+    "longitud": "-72.4783",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 168.6
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 28.9
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 72.5
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 67.2
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 227.5
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 79.8
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 60.8
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 86.9
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 103.7
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 24.8
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 41.8
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 37.1
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 155.6
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 34.7
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 74.8
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 46.1
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "12452001",
+    "nombre": "Rio Perez En Desembocadura",
+    "latitud": "-52.5492",
+    "longitud": "-71.9747",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 122.7
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 20.4
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 55.9
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 46.4
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 273.2
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 68.4
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 102.7
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 102.1
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 86.5
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 24.7
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 26.0
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 35.8
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 88.2
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 10.9
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 52.2
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 25.1
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "12586004",
+    "nombre": "Punta Arenas",
+    "latitud": "-53.1233",
+    "longitud": "-70.8772",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 84.3
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 27.3
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 22.0
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 35.0
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 124.0
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 43.2
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 29.9
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 50.9
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 91.4
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 41.8
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 17.4
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 32.2
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 61.2
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 4.7
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 38.0
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 18.5
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "12582003",
+    "nombre": "Lago Parrillar",
+    "latitud": "-53.4025",
+    "longitud": "-71.2497",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 123.9
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 38.8
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 42.5
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 42.6
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 188.7
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 63.0
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 67.9
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 57.8
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 158.2
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 64.6
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 48.2
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 45.4
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 131.4
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 39.7
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 60.2
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 31.5
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  },
+  {
+    "codigo_estacion": "12873001",
+    "nombre": "Russfin",
+    "latitud": "-53.7594",
+    "longitud": "-69.1892",
+    "precipitaciones": [
+      {
+        "fecha": "2016-1",
+        "valor": 68.2
+      },
+      {
+        "fecha": "2016-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2016-10",
+        "valor": 21.7
+      },
+      {
+        "fecha": "2016-11",
+        "valor": 22.6
+      },
+      {
+        "fecha": "2016-12",
+        "valor": 23.9
+      },
+      {
+        "fecha": "2017-1",
+        "valor": 84.2
+      },
+      {
+        "fecha": "2017-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2017-10",
+        "valor": 28.0
+      },
+      {
+        "fecha": "2017-11",
+        "valor": 23.7
+      },
+      {
+        "fecha": "2017-12",
+        "valor": 32.5
+      },
+      {
+        "fecha": "2018-1",
+        "valor": 81.9
+      },
+      {
+        "fecha": "2018-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2018-10",
+        "valor": 26.5
+      },
+      {
+        "fecha": "2018-11",
+        "valor": 22.7
+      },
+      {
+        "fecha": "2018-12",
+        "valor": 32.7
+      },
+      {
+        "fecha": "2019-1",
+        "valor": 69.95
+      },
+      {
+        "fecha": "2019-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-3",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-4",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-5",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-6",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-7",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-8",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-9",
+        "valor": 0
+      },
+      {
+        "fecha": "2019-10",
+        "valor": 7.61
+      },
+      {
+        "fecha": "2019-11",
+        "valor": 28.92
+      },
+      {
+        "fecha": "2019-12",
+        "valor": 33.42
+      },
+      {
+        "fecha": "2020-1",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-2",
+        "valor": 0
+      },
+      {
+        "fecha": "2020-3",
+        "valor": 0
+      }
+    ]
+  }
+]

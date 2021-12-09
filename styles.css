@@ -1,0 +1,81 @@
+html, body {
+    height: auto;
+    width: 90%;
+    display: flex;
+    flex-flow: column wrap;
+    /* justify-content: r;
+    text-align: justify; */
+    /* align-items: center; */
+    gap: 1vw;
+    font-family: Raleway, Verdana, sans-serif;
+    background-color: #d8ccdd;
+}
+
+.contenedor {
+    border-radius: 1%;
+    border-color: rgb(51, 51, 51);
+    border-style: solid;
+    background-color: whitesmoke;
+    /* flex-grow: 0; */
+}
+
+.selectores {
+    /* flex-grow: 3; */
+    display: flex;
+    flex-flow: row;
+
+    align-items: center;
+    gap: 3vh;
+}
+
+
+.selector {
+    width: 15em;
+    height: 2em;
+}
+
+
+.row{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    gap: 2vh;
+}
+
+.mapa{
+    border-radius: 1%;
+    border-color: rgb(51, 51, 51);
+    border-style: solid;
+    background-color: whitesmoke;
+}
+
+.seleccionadoestacion{
+    border-radius: 2%;
+    border-color: rgb(51, 51, 51);
+    border-style: solid;
+    width: 15;
+    height: 5;
+}
+
+.seleccionado{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    gap: 3vh;
+}
+
+g{
+    font-size: 10px;
+}
+
+#earthquakes-svg{
+    border-radius: 1%;
+    border-color: rgb(51, 51, 51);
+    border-style: solid;
+    background-color: whitesmoke;
+}
+
+.text{
+    text-align: justify;
+    text-justify: inter-word;
+}
